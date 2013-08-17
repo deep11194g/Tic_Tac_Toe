@@ -1,12 +1,11 @@
 
-
 Project Title : 	TIC TAC TOE
 
 Purpose Of Project : 	HIGH SCHOOL JAVA PROJECT
 
 VERSION : 		v1.0.0
 
-HOW TO START  :		Run .java using JDK 1.5 or above
+HOW TO START  :		Run TicTacToe.class using JDK 1.5 or higher
 
 AUTHORS: 		ANUPAM BISWAS
 			ANURAAG BISWAS
